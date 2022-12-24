@@ -14,9 +14,9 @@ scipy (For loading the .mat file)
 cvxopt (For optimization)
 
 ### For installing cvxopt, use the following command:
-'''
+```
 sudo CVXOPT_BUILD_GLPK=1 pip install cvxopt
-'''
+```
 ### Instructions:
 
 Keep all the python files in same folder, i.e., Codes.
