@@ -8,9 +8,13 @@ Python 3.8.10
 ### Required Libraries:
 
 numpy
+
 matplotlib
+
 random
+
 scipy (For loading the .mat file)
+
 cvxopt (For optimization)
 
 ### For installing cvxopt, use the following command:
